@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com Front-end
-- 🌱 Estou estudando Javascript, Typescript, react, HTML5, CSS3 Java e C#
+- 🌱 Estou estudando Javascript, Typescript, react, HTML5, CSS3, Java e C#
 
 
  <div>
